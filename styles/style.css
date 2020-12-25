@@ -1,7 +1,42 @@
-.navbar-nav{
-    align-items: center;
-    height: 60px;
-    color: aqua;
-    font-size: 23px;
-    text-align: center;
+body{
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
 }
+html{
+    scroll-behavior: smooth;
+}
+.container{
+    padding: 15px 20px;
+    background-color: rgb(16, 238, 201);
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    position: fixed;
+    
+}
+.container ,a {
+    text-decoration: none;
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+a:hover{
+    border-bottom:  2px solid green;
+    color: white;
+}
+#section1 {
+    height: 600px;
+    background-color: rgb(34, 34, 34);
+  }
+  
+  #section2 {
+    height: 600px;
+    background-color: rgb(34, 34, 34);
+  }
+  #section3 {
+    height: 600px;
+    background-color: rgb(34, 34, 34);
+  }
