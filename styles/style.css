@@ -13,6 +13,7 @@ html{
     color: white;
     margin-top: 0%;
     position: fixed;
+    display:flex;
     
 }
 .container ,a {
@@ -33,7 +34,7 @@ a:hover{
 }
 #section1 {
     height: 600px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(153, 47, 47);
     color: rgb(0, 156, 60);
     width: 100%;
   }
